@@ -28,3 +28,11 @@
  1733117539989:::1 : POST:/api/users
  1733117699697:::1 : POST:/api/users
  1733117819175:::1 : POST:/api/users
+ 1733151485205:::1 : GET:/api/users
+ 1733151537783:::1 : GET:/api/users
+ 1733151561849:::1 : GET:/api/users/674d45ca442890f1ebfd26c0
+ 1733151585818:::1 : GET:/api/users
+ 1733151598895:::1 : POST:/api/users
+ 1733151701674:::1 : PATCH:/api/users/674d45ca442890f1ebfd26c0
+ 1733151726893:::1 : GET:/api/users/674d45ca442890f1ebfd26c0
+ 1733151740370:::1 : DELETE:/api/users/674d45ca442890f1ebfd26c0
